@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Kathryn Lang Design</title>
+<meta name="description" content="Kathryn Lang's Portfolio">
+<meta name="keywords" content="HTML,CSS,XML,JavaScript,Website">
+<meta name="author" content="Kathryn Lang">
+<meta charset="UTF-8">
+
+<style type="text/css">
+p.font {font-family:"Avenir", Helvetica, sans-serif;}
+.purple {background-color: #C9F;}
+p.pink {background-color: #FF69B4;}
+.spans {font-family: "Times New Roman", Times, serif; background-color:#C9F;}
+#blue {background-color: #87CEFF;}
+</style>
+
+</head>
+
+<body>
+<p><div class="purple">This sentence should be purple.</div></p>
+<p class="pink">This sentence should be pink.</p>
+<p>This sentence should have a<span class="spans"> span </span>in the middle of it.</p>
+<p><div id="blue">This text should be blue</div></p>
+<p class="pink">This should be redefining HTML to pink </p>
+
+</body>
+</html>
