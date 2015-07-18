@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+.sometext
+{
+	position:relative;
+	left:-50px;
+	border-style:solid;
+	border-width:2px;
+	border-color:yellow;
+}
+
+.somemoretext
+{
+	position:relative;
+	left:50px;
+	border-style:dotted;
+	border-width:2px;
+	border-color:green;
+}
+
+</style>
+</head>
+
+<body>
+<div class="sometext">This style begins negative 50 pixels to the left.</div>
+<div class="somemoretext">This text style is moved 50 pixels from the left side of the page.</div>
+
+</body>
+</html>
